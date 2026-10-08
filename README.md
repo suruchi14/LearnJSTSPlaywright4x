@@ -29,7 +29,8 @@ JSand TS_PlayWright/
 ├── 02_chapter_JS_Keywrods_Identifiers/
 │   ├── 01_helloworld.js
 │   ├── 02_math.js
-│   └── 09_IQ.js
+│   ├── 09_IQ.js
+│   └── JS_keyword_identifies_rule.md
 ├── README.md
 └── .git/
 ```
